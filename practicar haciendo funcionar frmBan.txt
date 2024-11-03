@@ -1,0 +1,24 @@
+practicar haciendo funcionar frmBandaArt o quizás banda (mas parecido)
+un solo archivo HTML no se necesita Bootstrap
+webparcial4
+ -frmParcial4.html
+ -ctlFrmp4.js
+apiParcial4
+ -modP4
+ -clsOpetbl1
+ -clsOpetbl2
+ -tbl1Controller
+ -tbl2Controller
+bdParcial4(Script)
+tbl1
+ -código
+ -nombre
+
+tbl2
+ -código
+ -nombre
+ -Activo (check box)
+
+<!--Tarea-->
+traer listo del 1.5 y 1.5.1 y analizar
+Script

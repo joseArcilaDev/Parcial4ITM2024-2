@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\webParcial4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7524938-DEA6-4A5D-A9B2-E6455D5D70BE}|webParcial4\\webParcial4.csproj|d:\\universidad\\semestre24-2\\progsoft\\parcial4\\webparcial4\\webparcial4\\paginas\\frmparcial4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7524938-DEA6-4A5D-A9B2-E6455D5D70BE}|webParcial4\\webParcial4.csproj|solutionrelative:webparcial4\\paginas\\frmparcial4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7524938-DEA6-4A5D-A9B2-E6455D5D70BE}|webParcial4\\webParcial4.csproj|d:\\universidad\\semestre24-2\\progsoft\\parcial4\\webparcial4\\webparcial4\\paginas\\scrips\\ctlfrmp4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B7524938-DEA6-4A5D-A9B2-E6455D5D70BE}|webParcial4\\webParcial4.csproj|solutionrelative:webparcial4\\paginas\\scrips\\ctlfrmp4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctlFrmP4.js",
+              "DocumentMoniker": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\webParcial4\\webParcial4\\paginas\\scrips\\ctlFrmP4.js",
+              "RelativeDocumentMoniker": "webParcial4\\paginas\\scrips\\ctlFrmP4.js",
+              "ToolTip": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\webParcial4\\webParcial4\\paginas\\scrips\\ctlFrmP4.js",
+              "RelativeToolTip": "webParcial4\\paginas\\scrips\\ctlFrmP4.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-01T22:49:35.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmParcial4.html",
+              "DocumentMoniker": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\webParcial4\\webParcial4\\paginas\\frmParcial4.html",
+              "RelativeDocumentMoniker": "webParcial4\\paginas\\frmParcial4.html",
+              "ToolTip": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\webParcial4\\webParcial4\\paginas\\frmParcial4.html",
+              "RelativeToolTip": "webParcial4\\paginas\\frmParcial4.html",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-01T22:48:49.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\apiParcial4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE92CEE9-A4B3-4676-A03A-D88C9C0C6F23}|apiParcial4\\apiParcial4.csproj|d:\\universidad\\semestre24-2\\progsoft\\parcial4\\apiparcial4\\apiparcial4\\controllers\\tbl2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE92CEE9-A4B3-4676-A03A-D88C9C0C6F23}|apiParcial4\\apiParcial4.csproj|solutionrelative:apiparcial4\\controllers\\tbl2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE92CEE9-A4B3-4676-A03A-D88C9C0C6F23}|apiParcial4\\apiParcial4.csproj|d:\\universidad\\semestre24-2\\progsoft\\parcial4\\apiparcial4\\apiparcial4\\controllers\\tbl1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE92CEE9-A4B3-4676-A03A-D88C9C0C6F23}|apiParcial4\\apiParcial4.csproj|solutionrelative:apiparcial4\\controllers\\tbl1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE92CEE9-A4B3-4676-A03A-D88C9C0C6F23}|apiParcial4\\apiParcial4.csproj|d:\\universidad\\semestre24-2\\progsoft\\parcial4\\apiparcial4\\apiparcial4\\clases\\clsopetbl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE92CEE9-A4B3-4676-A03A-D88C9C0C6F23}|apiParcial4\\apiParcial4.csproj|solutionrelative:apiparcial4\\clases\\clsopetbl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE92CEE9-A4B3-4676-A03A-D88C9C0C6F23}|apiParcial4\\apiParcial4.csproj|d:\\universidad\\semestre24-2\\progsoft\\parcial4\\apiparcial4\\apiparcial4\\clases\\clsopetbl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE92CEE9-A4B3-4676-A03A-D88C9C0C6F23}|apiParcial4\\apiParcial4.csproj|solutionrelative:apiparcial4\\clases\\clsopetbl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tbl2Controller.cs",
+              "DocumentMoniker": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\apiParcial4\\apiParcial4\\Controllers\\tbl2Controller.cs",
+              "RelativeDocumentMoniker": "apiParcial4\\Controllers\\tbl2Controller.cs",
+              "ToolTip": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\apiParcial4\\apiParcial4\\Controllers\\tbl2Controller.cs",
+              "RelativeToolTip": "apiParcial4\\Controllers\\tbl2Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:46:53.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tbl1Controller.cs",
+              "DocumentMoniker": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\apiParcial4\\apiParcial4\\Controllers\\tbl1Controller.cs",
+              "RelativeDocumentMoniker": "apiParcial4\\Controllers\\tbl1Controller.cs",
+              "ToolTip": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\apiParcial4\\apiParcial4\\Controllers\\tbl1Controller.cs",
+              "RelativeToolTip": "apiParcial4\\Controllers\\tbl1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:46:05.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsOpetbl2.cs",
+              "DocumentMoniker": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\apiParcial4\\apiParcial4\\clases\\clsOpetbl2.cs",
+              "RelativeDocumentMoniker": "apiParcial4\\clases\\clsOpetbl2.cs",
+              "ToolTip": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\apiParcial4\\apiParcial4\\clases\\clsOpetbl2.cs",
+              "RelativeToolTip": "apiParcial4\\clases\\clsOpetbl2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:45:42.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsOpetbl1.cs",
+              "DocumentMoniker": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\apiParcial4\\apiParcial4\\clases\\clsOpetbl1.cs",
+              "RelativeDocumentMoniker": "apiParcial4\\clases\\clsOpetbl1.cs",
+              "ToolTip": "D:\\Universidad\\Semestre24-2\\ProgSoft\\parcial4\\apiParcial4\\apiParcial4\\clases\\clsOpetbl1.cs",
+              "RelativeToolTip": "apiParcial4\\clases\\clsOpetbl1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:45:14.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
